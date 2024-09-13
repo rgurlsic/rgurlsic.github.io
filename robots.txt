@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rgurlsic.github.io/sitemap.html.gz
+Sitemap: https://rgurlsic.github.io/app/sitemap.html.gz
+Sitemap: https://rgurlsic.github.io/assets/sitemap.html.gz
+Sitemap: https://rgurlsic.github.io/css/sitemap.html.gz
+Sitemap: https://rgurlsic.github.io/includes/sitemap.html.gz
+Sitemap: https://rgurlsic.github.io/item/sitemap.html.gz
+Sitemap: https://rgurlsic.github.io/src/sitemap.html.gz
